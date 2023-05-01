@@ -1,0 +1,29 @@
+2023-05-01 16:51:19,886 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-01 16:55:05,223 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: dk1:myproject_new:1.0.0 @ C:\Users\Jeong\Desktop\coding new\dk\eGovFrameDev-3.10.0-64bit\workspace\bd_self1\pom.xml.
+2023-05-01 16:55:17,338 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 16:55:17,352 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-01 16:55:17,512 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 16:55:17,514 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-01 16:56:39,864 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 16:56:39,870 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-01 16:56:39,872 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 16:56:39,873 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-01 16:59:37,110 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-01 17:02:16,849 [Worker-29: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: dk:eg_project1:1.0.0 @ C:\Users\Jeong\Desktop\coding new\8.youtube\HS_Cho\eGovFrameDev-3.10.0-64bit\workspace\eg_project1\pom.xml.
+2023-05-01 17:02:16,849 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: dk:eg_project1:1.0.0 @ C:\Users\Jeong\Desktop\coding new\8.youtube\HS_Cho\eGovFrameDev-3.10.0-64bit\workspace\eg_project1\pom.xml.
+2023-05-01 17:02:19,750 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 17:02:19,763 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-01 17:02:19,925 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 17:02:19,928 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-01 17:02:21,940 [Worker-30: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: dk:eg_project1:1.0.0 @ C:\Users\Jeong\Desktop\coding new\8.youtube\HS_Cho\eGovFrameDev-3.10.0-64bit\workspace\eg_project1\pom.xml.
+2023-05-01 17:02:28,998 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 17:02:29,015 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-01 17:02:29,170 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 17:02:29,173 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-01 17:25:00,825 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-01 17:25:11,492 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 17:25:11,526 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-01 17:25:11,585 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-01 17:25:11,593 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-01 17:27:42,418 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-01 17:31:10,699 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
