@@ -1,0 +1,21 @@
+# 텍스트 파일의 기본 동작 설정
+#* text=auto
+
+# 이진 파일의 기본 동작 설정
+*.exe binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.pdf binary diff=pdf diff-binary
+license binary
+licence binary
+
+# 텍스트 파일의 줄 끝 스타일 설정
+#*.txt eol=lf # git [--system/--global/--local] 에서 정의
+
+# 특정 파일에 대한 병합 드라이버 설정
+*.docx merge=word
+
+# 파일 및 디렉토리 무시
+*.log linguist-generated
+build/ linguist-generated
